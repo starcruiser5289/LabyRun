@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Monster
+  - Spawn
+  - Wall
+  - Lever
+  - Button
+  - Obstacle
   layers:
   - Default
   - TransparentFX
