@@ -1,0 +1,20 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+# /[Ll]ibrary/
+**/[Tt]emp/
+# /[Oo]bj/
+**/[Ll]ogs/
+**/Library/Collab/
+**.log
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+**/PackageCache/
+**/ShaderCache/
+**/StateCache/
+**/.vs/
+**/Debug/
+**/Library/metadata/
+**/Library/il2cpp_cache/
+**/Library/il2cpp_cache*
