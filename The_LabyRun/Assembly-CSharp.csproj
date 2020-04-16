@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Map\Generation.cs" />
+    <Compile Include="Assets\Script\Map\map_lauch.cs" />
     <Compile Include="Assets\Script\Map\obstacle_change.cs" />
     <Compile Include="Assets\Script\Map\reading_construction.cs" />
     <Compile Include="Assets\Script\Mouvement\Monster.cs" />

@@ -63,6 +63,8 @@ public class reading_construction : MonoBehaviour
     public void wall_gen(int x, int y) 
     {
         GameObject Wall = Instantiate(wall, new Vector3(x, y, 0),wall.transform.rotation) as GameObject;
+        SpriteRenderer sprite= Wall.GetComponent<SpriteRenderer>();
+        sprite.enabled = true;
         
         // here we can add more code 
         //to add scripts or other components 

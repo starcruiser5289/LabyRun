@@ -8,24 +8,36 @@ public class Generation : MonoBehaviour
     private uint cellsize;
     private uint mazesize;
 
-    List<int[][]> cells = new List<int[][]> { };
+    List<uint[][]> cells = new List<uint[][]>();
 
-
-
-
-
-    public Generation(uint cellsize)
+    public void cells_init()
     {
-        this.cellsize = cellsize;
-        mazesize = (cellsize * 3) + 2;
+        cells.Add(new uint[][] 
+        { 
+            new uint[]{1,1,1,1,0,1,1,1,1 },
+            new uint[]{1,0,0,0,0,0,0,0,1 },
+            new uint[]{1,0,1,1,0,1,1,0,1 },
+            new uint[]{1,0,1,0,0,0,1,0,1 },
+            new uint[]{0,0,0,0,0,0,0,0,0 },
+            new uint[]{1,0,1,0,0,0,1,0,1 },
+            new uint[]{1,0,1,1,0,1,1,0,1 },
+            new uint[]{1,0,0,0,0,0,0,0,1 },
+            new uint[]{1,1,1,1,0,1,1,1,1 },
+
+        }
+        
+        
+        
+        
+        
+        );
     }
-
-
 
 
 
     //creates an empty maze with only exterieur walls 
     //to be used in maze creation methods
+    /**
     public uint[][] Empty_map_generator()
     {
         uint[][] ext = new uint[mazesize][];
@@ -47,20 +59,33 @@ public class Generation : MonoBehaviour
         }
         return ext;
     }
+    */
 
 
-    public uint[,] cell_layout()
+
+
+
+
+    //creates a small matrice which creates a blueprint 
+    public int[,] cell_layout()
     {
-        uint[,] ext = new uint[3, 3];
+        int[,] ext = new int[3, 3];
         int len = cells.Count;
-        Random rand = new 
-
+        int elt;
 
         for (int x = 0; x < 3; x++)
         {
             for (int y = 0; y < 3; y++)
             {
-                ext[y,x] = Random.
+                if (y == 1 && x == 1)
+                {
+                    ext[y, x] = 0; 
+                }
+                else
+                {
+                    elt = Random.Range(0, len);
+                    ext[y, x] = elt;
+                }
             }
         }
 
@@ -73,10 +98,93 @@ public class Generation : MonoBehaviour
 
 
 
-    //
+    //creates the randomized map that reading_construction.cs can use  
     public uint[][] random_gen() 
     {
-        uint[][] ext = Empty_map_generator();
+
+
+
+        cellsize = (uint)cells[0].Length;
+        mazesize = (cellsize * 3) + 2;
+        uint[][] ext = new uint[mazesize][];
+        int[,] matrice = cell_layout();
+        uint[] line = new uint[mazesize];
+
+
+
+
+        for (int i = 0; i< mazesize ;i++)
+        {
+            line[i] = 1;
+        }
+        (ext[0], ext[mazesize - 1]) = (line, line);
+
+        
+
+
+        for (uint y = 1; y < mazesize - 1; y++)
+        {
+            line = new uint[mazesize];
+            (line[0], line[mazesize - 1]) = (1, 1);
+
+            if (y < cellsize + 1)
+            {
+
+                for (uint i = 0; i <cellsize ; i++)
+                {
+                    line[1 + i] = cells[(int)matrice[0,0]] [y-1] [i];
+
+                    line[ i + cellsize + 1] = cells[(int)matrice[0, 1]] [y - 1] [i];
+
+                    line[i + (2*cellsize) + 1] = cells[(int)matrice[0, 2]] [y - 1] [i];
+
+                }
+
+
+            }
+            else
+            {
+                if (y > cellsize && y < (cellsize * 2) + 1)
+                {
+
+                    for (uint i = 0; i < cellsize; i++)
+                    {
+                        line[1 + i] = cells[(int)matrice[1, 0]] [y-cellsize-1] [i];
+
+                        line[i + cellsize+1] = cells[(int)matrice[1, 1]] [y - cellsize-1] [i];
+
+                        line[i + (2 * cellsize) + 1] = cells[(int)matrice[1, 2]] [y - cellsize-1] [i];
+
+                    }
+
+
+
+                }
+                else
+                {
+
+                    for (uint i = 0; i < cellsize; i++)
+                    {
+                        line[1 + i] = cells[(int)matrice[2, 0]] [y -(cellsize*2) - 1] [i];
+
+                        line[i + cellsize+ 1] = cells[(int)matrice[2, 1]] [y - (cellsize * 2) - 1 ] [i];
+
+                        line[i + (2 * cellsize) + 1] = cells[(int)matrice[2, 2]] [y - (cellsize * 2) - 1 ] [i];
+
+                    }
+
+
+
+
+                }
+            }
+
+
+            ext[y] = line;
+        }
+        
+
+
 
 
 
