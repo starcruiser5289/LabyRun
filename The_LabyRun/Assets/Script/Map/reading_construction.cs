@@ -17,7 +17,7 @@ public class reading_construction : MonoBehaviour
 
 
 
-    public void Map_Constructor(int[][] matrice)
+    public void Map_Constructor(uint[][] matrice)
     {
         /**this methode takes each individual int from a bit-map and activate
         other methods to create the map */
