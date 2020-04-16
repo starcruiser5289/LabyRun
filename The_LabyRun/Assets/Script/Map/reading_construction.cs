@@ -94,6 +94,8 @@ public class reading_construction : MonoBehaviour
     public void spawn_gen(int x, int y)
     {
         GameObject Spawn = Instantiate(spawn, new Vector3(x, y, 0), wall.transform.rotation) as GameObject;
+        SpriteRenderer sprite = Spawn.GetComponent<SpriteRenderer>();
+        sprite.enabled = true;
         // here we can add more code 
         //to add scripts or other components 
         //onto each clone
