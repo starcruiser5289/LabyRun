@@ -99,7 +99,10 @@ public class Generation : MonoBehaviour
                 }
                 else
                 {
-                    elt = Random.Range(0, len);
+                    //can't work with only the spawn cell in the code
+                    //must add more cell for it to work
+
+                    elt = Random.Range(1, len);
                     ext[y, x] = elt;
                 }
             }
