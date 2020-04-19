@@ -17,7 +17,7 @@ public class test_map_lauch : MonoBehaviour
         //this input is only used to test Generation.cs and reading_construction.cs 
         //creating a new random map
         //following commands will be used at the start of a new game
-        if (Input.GetKey("q"))
+        if (Input.GetKeyDown("q"))
         {
             gen.cells_init();
             read.Map_Constructor(gen.random_gen());      
@@ -26,4 +26,8 @@ public class test_map_lauch : MonoBehaviour
 
 
     }
+
+
+
+
 }

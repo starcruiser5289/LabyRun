@@ -9,7 +9,7 @@ public class reading_construction : MonoBehaviour
     public GameObject lever;
     public GameObject obstacle;
     public GameObject spawn;
-    public GameObject button;
+    public GameObject clef;
     
 
     // this vector2 will change the scale of object like walls(not yet sure if usefull for now)
@@ -44,7 +44,7 @@ public class reading_construction : MonoBehaviour
                         spawn_gen(x, y);
                         break;
                     case (5):
-                        button_gen(x, y);
+                        clef_gen(x, y);
                         break;
                     
 
@@ -102,9 +102,11 @@ public class reading_construction : MonoBehaviour
     }
 
 
-    public void button_gen(int x, int y)
+    public void clef_gen(int x, int y)
     {
-        GameObject Button = Instantiate(button, new Vector3(x, y, 0), wall.transform.rotation) as GameObject;
+        GameObject Clef = Instantiate(clef, new Vector3(x, y, 0), wall.transform.rotation) as GameObject;
+        SpriteRenderer sprite = Clef.GetComponent<SpriteRenderer>();
+        sprite.enabled = true;
         // here we can add more code 
         //to add scripts or other components 
         //onto each clone
