@@ -64,6 +64,8 @@ public class reading_construction : MonoBehaviour
     {
         GameObject Wall = Instantiate(wall, new Vector3(x, y, 0),wall.transform.rotation) as GameObject;
         SpriteRenderer sprite= Wall.GetComponent<SpriteRenderer>();
+        BoxCollider2D box = wall.GetComponent<BoxCollider2D>();
+        box.enabled = true;
         sprite.enabled = true;
         
         // here we can add more code 

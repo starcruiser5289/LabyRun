@@ -69,6 +69,7 @@
      <Compile Include="Assets\Script\Map\test_map_lauch.cs" />
      <Compile Include="Assets\Script\Mouvement\Monster.cs" />
      <Compile Include="Assets\Script\Mouvement\Player.cs" />
+     <Compile Include="Assets\deplacement.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
@@ -167,6 +168,12 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

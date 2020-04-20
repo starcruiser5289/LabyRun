@@ -4,6 +4,7 @@
     <e p="C:\projet_epita\LabyRun\The_LabyRun" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="deplacement.cs" t="Include" />
         <e p="Mainmenu_script.cs" t="Include" />
         <e p="Script" t="Include">
           <e p="AI" t="Include">
