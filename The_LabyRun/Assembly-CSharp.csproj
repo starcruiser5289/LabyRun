@@ -70,6 +70,10 @@
      <Compile Include="Assets\Script\Mouvement\Monster.cs" />
      <Compile Include="Assets\Script\Mouvement\Player.cs" />
      <Compile Include="Assets\deplacement.cs" />
+     <Compile Include="Assets\followplayer.cs" />
+     <Compile Include="Assets\print_score.cs" />
+     <Compile Include="Assets\score_script.cs" />
+     <Compile Include="Assets\time.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />

@@ -108,6 +108,8 @@ public class reading_construction : MonoBehaviour
     {
         GameObject Clef = Instantiate(clef, new Vector3(x, y, 0), wall.transform.rotation) as GameObject;
         SpriteRenderer sprite = Clef.GetComponent<SpriteRenderer>();
+        BoxCollider2D clé = clef.GetComponent<BoxCollider2D>();
+        clé.enabled = true;
         sprite.enabled = true;
         // here we can add more code 
         //to add scripts or other components 

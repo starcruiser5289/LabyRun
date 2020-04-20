@@ -21,8 +21,11 @@ public class deplacement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log(  "LOL");
+        Destroy(collision.gameObject);
+        score += 1;
 
-        if (collision.CompareTag("key"))
+        if (collision.CompareTag("clef"))
         {
             miam.Play();
             Destroy(collision.gameObject);

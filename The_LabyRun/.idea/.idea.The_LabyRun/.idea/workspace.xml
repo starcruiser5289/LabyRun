@@ -12,10 +12,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/score_script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Map/Generation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/time.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/followplayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mainmenu_script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/print_score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/deplacement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,6 +28,10 @@
         <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" />
+        <option value="$PROJECT_DIR$/Assets/score_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/time.cs" />
+        <option value="$PROJECT_DIR$/Assets/followplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/print_score.cs" />
         <option value="$PROJECT_DIR$/Assets/deplacement.cs" />
       </list>
     </option>
@@ -80,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587408135219</updated>
-      <workItem from="1587408141196" duration="4621000" />
+      <workItem from="1587408141196" duration="8274000" />
     </task>
     <servers />
   </component>
