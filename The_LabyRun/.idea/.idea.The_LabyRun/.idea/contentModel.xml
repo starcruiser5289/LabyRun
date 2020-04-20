@@ -6,6 +6,8 @@
       <e p="Assets" t="Include">
         <e p="deplacement.cs" t="Include" />
         <e p="followplayer.cs" t="Include" />
+        <e p="health_script.cs" t="Include" />
+        <e p="ia_entité.cs" t="Include" />
         <e p="Mainmenu_script.cs" t="Include" />
         <e p="print_score.cs" t="Include" />
         <e p="score_script.cs" t="Include" />

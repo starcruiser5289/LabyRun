@@ -71,6 +71,8 @@
      <Compile Include="Assets\Script\Mouvement\Player.cs" />
      <Compile Include="Assets\deplacement.cs" />
      <Compile Include="Assets\followplayer.cs" />
+     <Compile Include="Assets\health_script.cs" />
+     <Compile Include="Assets\ia_entité.cs" />
      <Compile Include="Assets\print_score.cs" />
      <Compile Include="Assets\score_script.cs" />
      <Compile Include="Assets\time.cs" />

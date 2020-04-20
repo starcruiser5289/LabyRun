@@ -20,7 +20,7 @@ public class score_script : MonoBehaviour
     void Update ()
     {
         int scr = ramzy.score;
-        if (Mathf.Round(timeStart) == 0 && scr < 5)
+        if (Mathf.Round(timeStart) == 0 && scr < 8)
         {
             SceneManager.LoadScene("Scenes/Mainmenu"); 
         }

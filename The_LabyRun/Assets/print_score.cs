@@ -21,7 +21,7 @@ public class print_score : MonoBehaviour
     void Update()
     {
         int scr = player.score; 
-        canvas.text = "Nombre de clés recupérées :" +scr +"\n " + "Nombre de clés restantes " + Convert.ToString(5-scr) ;
+        canvas.text = "Nombre de clés recupérées :" +scr +"\n " + "Nombre de clés restantes " + Convert.ToString(8-scr) ;
         
         
     }
