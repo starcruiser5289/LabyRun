@@ -63,6 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\AI\data\spawnpoint.cs" />
+    <Compile Include="Assets\Script\AI\spawn.cs" />
+    <Compile Include="Assets\Script\AI\states\chase.cs" />
+    <Compile Include="Assets\Script\AI\states\patrol.cs" />
     <Compile Include="Assets\Script\Map\Generation.cs" />
     <Compile Include="Assets\Script\Map\obstacle_change.cs" />
     <Compile Include="Assets\Script\Map\reading_construction.cs" />
