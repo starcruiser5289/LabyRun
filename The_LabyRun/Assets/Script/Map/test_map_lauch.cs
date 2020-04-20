@@ -5,10 +5,14 @@ using UnityEngine;
 public class test_map_lauch : MonoBehaviour
 {
     public reading_construction read;
-
     public Generation gen;
+    public test Test;
 
 
+    private void Start()
+    {
+        Test = new test();
+    }
     // Update is called once per frame
     void Update()
     {
@@ -22,7 +26,10 @@ public class test_map_lauch : MonoBehaviour
             gen.cells_init();
             read.Map_Constructor(gen.random_gen());      
         }
-
+        if (Input.GetKeyDown("e"))
+        {
+            Test.Starting();
+        }
 
 
     }
