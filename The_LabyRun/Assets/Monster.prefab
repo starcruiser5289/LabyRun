@@ -49,6 +49,7 @@ MonoBehaviour:
   speed: 3
   ramzy: {fileID: 0}
   vie: {fileID: 0}
+  degats: {fileID: 0}
 --- !u!212 &604406442577395366
 SpriteRenderer:
   m_ObjectHideFlags: 0

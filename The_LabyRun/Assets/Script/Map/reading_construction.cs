@@ -10,6 +10,7 @@ public class reading_construction : MonoBehaviour
     public GameObject obstacle;
     public GameObject spawn;
     public GameObject clef;
+    public GameObject potion;
     
 
     // this vector2 will change the scale of object like walls(not yet sure if usefull for now)
@@ -102,6 +103,16 @@ public class reading_construction : MonoBehaviour
         //to add scripts or other components 
         //onto each clone
     }
+    public void potion_gen(int x, int y)
+    {
+        GameObject Potion = Instantiate(potion, new Vector3(x, y, 0), wall.transform.rotation) as GameObject;
+        SpriteRenderer sprite = Potion.GetComponent<SpriteRenderer>();
+        BoxCollider2D zz = potion.GetComponent<BoxCollider2D>();
+        zz.enabled = true;
+        sprite.enabled = true;
+        
+    }
+    
 
 
     public void clef_gen(int x, int y)

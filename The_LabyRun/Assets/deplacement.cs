@@ -9,28 +9,39 @@ public class deplacement : MonoBehaviour
     private Vector3 mouvement;
     public Animator Animator; 
     public int score;
-    private  AudioSource miam; 
+    public AudioSource clé;
+    public AudioSource miam;
+    public health_script vie;
+
+
 
     void Start()
     {
         rigit2d = GetComponent<Rigidbody2D>();
         score = 0;
-        miam = GetComponent<AudioSource>();
+        
 
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(  "LOL");
-        Destroy(collision.gameObject);
-        score += 1;
+        
 
         if (collision.CompareTag("clef"))
         {
-            miam.Play();
             Destroy(collision.gameObject);
             score += 1;
+            clé.Play();
+            
             Debug.Log(score + "LOL");
+        }
+
+        if (collision.CompareTag("potion") && vie.hp < 3)
+        {
+            Destroy(collision.gameObject);
+            miam.Play();
+            vie.hp += 1;
+
         }
 
     }

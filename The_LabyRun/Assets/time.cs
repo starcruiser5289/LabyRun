@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class time : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float timeStart = 90;
+    public float timeStart = 360;
     public Text textBox;
     public deplacement ramzy; 
     

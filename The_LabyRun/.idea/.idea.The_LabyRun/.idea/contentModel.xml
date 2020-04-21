@@ -4,11 +4,14 @@
     <e p="C:\projet_epita\LabyRun\The_LabyRun" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="boutons_gameover.cs" t="Include" />
+        <e p="collision_player_key.cs" t="Include" />
         <e p="deplacement.cs" t="Include" />
         <e p="followplayer.cs" t="Include" />
         <e p="health_script.cs" t="Include" />
         <e p="ia_entité.cs" t="Include" />
         <e p="Mainmenu_script.cs" t="Include" />
+        <e p="potion_script.cs" t="Include" />
         <e p="print_score.cs" t="Include" />
         <e p="score_script.cs" t="Include" />
         <e p="Script" t="Include">
@@ -32,6 +35,7 @@
             <e p="Monster.cs" t="Include" />
             <e p="Player.cs" t="Include" />
           </e>
+          <e p="soundmanager.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
