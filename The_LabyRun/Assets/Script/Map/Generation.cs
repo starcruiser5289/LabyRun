@@ -53,7 +53,6 @@ public class Generation : MonoBehaviour
 
     //creates an empty maze with only exterieur walls 
     //to be used in maze creation methods
-    /**
     public uint[][] Empty_map_generator()
     {
         uint[][] ext = new uint[mazesize][];
@@ -75,14 +74,14 @@ public class Generation : MonoBehaviour
         }
         return ext;
     }
-    */
+    
 
 
 
 
 
 
-    //creates a small matrice which creates a blueprint 
+    //creates a small matrice which creates a blueprint for random generation
     public int[,] cell_layout()
     {
         int[,] ext = new int[3, 3];
