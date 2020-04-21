@@ -11,6 +11,8 @@ TagManager:
   - Button
   - Obstacle
   - clef
+  - key
+  - potion
   layers:
   - Default
   - TransparentFX

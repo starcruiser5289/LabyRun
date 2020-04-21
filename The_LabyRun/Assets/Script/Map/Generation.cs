@@ -181,6 +181,7 @@ public class Generation : MonoBehaviour
         uint[][] ext = new uint[mazesize][];
         int[,] matrice = cell_layout();
         uint[] line = new uint[mazesize];
+        
 
 
 
