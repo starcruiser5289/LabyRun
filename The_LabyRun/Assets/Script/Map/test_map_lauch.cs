@@ -6,7 +6,7 @@ public class test_map_lauch : MonoBehaviour
 {
     public reading_construction read;
     public Generation gen;
-    public Test test = new Test();
+    public save_load test = new save_load();
 
 
     /**
@@ -28,11 +28,12 @@ public class test_map_lauch : MonoBehaviour
             gen.cells_init();
             read.Map_Constructor(gen.random_gen());      
         }
+        /**
         if (Input.GetKeyDown("e"))
         {
             test.Starting();
         }
-
+        */
 
     }
 }

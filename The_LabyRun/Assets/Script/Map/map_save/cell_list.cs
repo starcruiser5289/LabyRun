@@ -61,10 +61,13 @@ namespace sav
             for(int i =0; i<25; i++)
             {
                 line = _cell[i];
-                ext += savejson();
+                ext +="/" + savejson();
             }
             return ext;
         }
+
+
+
 
     }
 }
