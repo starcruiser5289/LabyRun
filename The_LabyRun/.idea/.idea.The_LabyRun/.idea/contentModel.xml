@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Enzo\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Enzo\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_The_LabyRun.-1215768552.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Enzo\LabyRun\The_LabyRun" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="InteractionLevier.cs" t="Include" />
+        <e p="InteractionPorte.cs" t="Include" />
+        <e p="MovementPLayer.cs" t="Include" />
+        <e p="PlayerInteraction.cs" t="Include" />
+        <e p="Script" t="Include">
+          <e p="Map" t="Include">
+            <e p="Generation.cs" t="Include" />
+            <e p="obstacle_change.cs" t="Include" />
+          </e>
+          <e p="Mouvement" t="Include">
+            <e p="Monster.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="The_LabyRun.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
