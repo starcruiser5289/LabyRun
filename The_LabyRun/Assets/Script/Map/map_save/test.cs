@@ -45,10 +45,10 @@ namespace sav
 
             cell_list cl = new cell_list();
             saver sv = new saver();
-            cl.cell_add(cell);
+            
 
-            sv.Saving(cl.savejson(), "/saves/cell_list");
-            Debug.Log(cl.savejson());
+            sv.Savinglines(new string[] { cl.cell_deconstructor(cell) }, "/saves/cell_list");
+            
         }
 
 

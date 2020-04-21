@@ -7,13 +7,17 @@ namespace sav
     public class cell_list
     {
 
-        public List<uint[][]> cells;
-        public List<int> test;
+        private List<uint[][]> cells;
+        private uint[][] cell;
+        public uint[] line;
+
+
+        
 
         public cell_list()
         {
             cells = new List<uint[][]> { };
-            test = new List<int> {1,2,3,4,5,6 };
+            line = new uint[25];
         }
 
         public string savejson()
@@ -30,6 +34,36 @@ namespace sav
         public void cell_add(uint[][] cell)
         {
             cells.Add(cell);
+        }
+
+        public List<uint[][]> Cells()
+        {
+            return cells;
+        }
+
+
+        public void cell_rebuilder(string[] arr)
+        {
+            uint[][] ext = new uint[25][];
+            for (int i = 0; i < 25; i++)
+            {
+                fromjson(arr[i]);
+                ext[i] = line;
+            }
+
+            cells.Add(ext);
+
+        }
+
+        public string cell_deconstructor(uint[][] _cell)
+        {
+            string ext = "";
+            for(int i =0; i<25; i++)
+            {
+                line = _cell[i];
+                ext += savejson();
+            }
+            return ext;
         }
 
     }
