@@ -1,14 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using sav;
 public class test_map_lauch : MonoBehaviour
 {
     public reading_construction read;
-
     public Generation gen;
+    public save_load test = new save_load();
 
 
+    /**
+    private void Start()
+    {
+        
+    }
+    */
     // Update is called once per frame
     void Update()
     {
@@ -22,8 +28,12 @@ public class test_map_lauch : MonoBehaviour
             gen.cells_init();
             read.Map_Constructor(gen.random_gen());      
         }
-
-
+        /**
+        if (Input.GetKeyDown("e"))
+        {
+            test.Starting();
+        }
+        */
 
     }
 }
