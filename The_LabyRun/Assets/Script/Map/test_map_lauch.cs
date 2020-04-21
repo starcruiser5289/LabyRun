@@ -1,18 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using sav;
 public class test_map_lauch : MonoBehaviour
 {
     public reading_construction read;
     public Generation gen;
-    public test Test;
+    public Test test = new Test();
 
 
+    /**
     private void Start()
     {
-        Test = new test();
+        
     }
+    */
     // Update is called once per frame
     void Update()
     {
@@ -28,7 +30,7 @@ public class test_map_lauch : MonoBehaviour
         }
         if (Input.GetKeyDown("e"))
         {
-            Test.Starting();
+            test.Starting();
         }
 
 

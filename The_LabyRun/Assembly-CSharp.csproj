@@ -64,14 +64,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Map\Generation.cs" />
+    <Compile Include="Assets\Script\Map\map_save\Test.cs" />
     <Compile Include="Assets\Script\Map\map_save\cell_list.cs" />
     <Compile Include="Assets\Script\Map\map_save\saver.cs" />
-    <Compile Include="Assets\Script\Map\map_save\test.cs" />
     <Compile Include="Assets\Script\Map\obstacle_change.cs" />
     <Compile Include="Assets\Script\Map\reading_construction.cs" />
     <Compile Include="Assets\Script\Map\test_map_lauch.cs" />
     <Compile Include="Assets\Script\Mouvement\Monster.cs" />
     <Compile Include="Assets\Script\Mouvement\Player.cs" />
+    <Compile Include="Assets\Script\camera.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/boulot/prog/LabyRun/The_LabyRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
