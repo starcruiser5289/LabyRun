@@ -76,10 +76,12 @@
      <Compile Include="Assets\followplayer.cs" />
      <Compile Include="Assets\health_script.cs" />
      <Compile Include="Assets\ia_entité.cs" />
+     <Compile Include="Assets\music_script.cs" />
      <Compile Include="Assets\potion_script.cs" />
      <Compile Include="Assets\print_score.cs" />
      <Compile Include="Assets\score_script.cs" />
      <Compile Include="Assets\time.cs" />
+     <Compile Include="Assets\victorycript.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
@@ -100,6 +102,9 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
@@ -164,6 +169,9 @@
  <Reference Include="Unity.2D.Animation.Editor">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Mathematics.Editor">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
@@ -178,12 +186,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>C:/projet_epita/LabyRun/The_LabyRun/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

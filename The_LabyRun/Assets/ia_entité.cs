@@ -30,7 +30,7 @@ public class ia_entité : MonoBehaviour
         {
             vie.hp -= 1;
             degats.Play();
-            ramzy.transform.position = new Vector2(2, 2);
+            ramzy.transform.position = new Vector2(39, 39);
             Debug.Log("zzz");
         }
     }

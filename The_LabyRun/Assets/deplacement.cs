@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class deplacement : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class deplacement : MonoBehaviour
     public AudioSource clé;
     public AudioSource miam;
     public health_script vie;
+    public time temps; 
 
 
 
@@ -33,7 +35,7 @@ public class deplacement : MonoBehaviour
             score += 1;
             clé.Play();
             
-            Debug.Log(score + "LOL");
+            Debug.Log(score + "collisionclé");
         }
 
         if (collision.CompareTag("potion") && vie.hp < 3)
@@ -47,6 +49,8 @@ public class deplacement : MonoBehaviour
     }
     void Update()
     {
+        
+        
         mouvement.y = Input.GetAxisRaw("Vertical"); 
         mouvement.x = Input.GetAxisRaw("Horizontal");
         Animator.SetFloat("Horizontal" ,mouvement.x);

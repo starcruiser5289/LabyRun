@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44bdc56e-3dfc-49f7-bbbe-8a100530516a" name="Default Changelist" comment="" />
@@ -17,7 +17,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/collision_player_key.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/followplayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/print_score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/music_script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/soundmanager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/victorycript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/score_script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/health_script.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Map/Generation.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,21 +33,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" />
         <option value="$PROJECT_DIR$/Assets/followplayer.cs" />
         <option value="$PROJECT_DIR$/Assets/health_script.cs" />
         <option value="$PROJECT_DIR$/Assets/score_script.cs" />
         <option value="$PROJECT_DIR$/Assets/print_score.cs" />
         <option value="$PROJECT_DIR$/Assets/collision_player_key.cs" />
-        <option value="$PROJECT_DIR$/Assets/time.cs" />
         <option value="$PROJECT_DIR$/Assets/boutons_gameover.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/soundmanager.cs" />
-        <option value="$PROJECT_DIR$/Assets/ia_entité.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/Generation.cs" />
         <option value="$PROJECT_DIR$/Assets/potion_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/music_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/ia_entité.cs" />
         <option value="$PROJECT_DIR$/Assets/deplacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/time.cs" />
+        <option value="$PROJECT_DIR$/Assets/victorycript.cs" />
       </list>
     </option>
   </component>
@@ -101,7 +105,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587408135219</updated>
-      <workItem from="1587408141196" duration="22870000" />
+      <workItem from="1587408141196" duration="23469000" />
+      <workItem from="1587504168062" duration="9722000" />
+      <workItem from="1587565348130" duration="4648000" />
     </task>
     <servers />
   </component>
@@ -115,7 +121,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

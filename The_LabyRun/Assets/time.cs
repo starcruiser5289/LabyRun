@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class time : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float timeStart = 360;
+    public float timeStart ;
     public Text textBox;
     public deplacement ramzy; 
     
@@ -14,17 +14,25 @@ public class time : MonoBehaviour
     
     void Start () {
         textBox.text = timeStart.ToString();
+        
     }
 	
     
     void Update ()
     {
         int scr = ramzy.score;
-        if (Mathf.Round(timeStart) == 0 && scr < 8)
-        {
-            SceneManager.LoadScene("Scenes/Mainmenu");
-        }
+        
+        
         timeStart -= Time.deltaTime;
         textBox.text = "Temps restant à Ramzy :" + Mathf.Round(timeStart).ToString();
+        if (scr == 8 && Mathf.Round(timeStart) > 0 )
+        {
+            SceneManager.LoadScene("Scenes/victory");
+        }
+        else if (Mathf.Round(timeStart) == 0 && scr < 8)
+        {
+            SceneManager.LoadScene("Scenes/gameover"); 
+        }
+        
     }
 }
