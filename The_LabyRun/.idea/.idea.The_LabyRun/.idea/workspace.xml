@@ -12,44 +12,61 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/boutons_gameover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/potion_script.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/collision_player_key.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/followplayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/print_score.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/music_script.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/soundmanager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/victorycript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/score_script.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/health_script.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/Generation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/time.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E93AB2F8-5FF8-4881-B6AB-5BA98D373CFC/2f/c73759e2/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/print_score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ia_entité.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/collision_player_key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/chrono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/cheese.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/levels.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mainmenu_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ia_mage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/boutons_gameover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/keep_objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/potion_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/followplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/health_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/soundmanager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/playerattack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/Generation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/stats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Get_lvl2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/deplacement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" />
         <option value="$PROJECT_DIR$/Assets/followplayer.cs" />
         <option value="$PROJECT_DIR$/Assets/health_script.cs" />
         <option value="$PROJECT_DIR$/Assets/score_script.cs" />
-        <option value="$PROJECT_DIR$/Assets/print_score.cs" />
         <option value="$PROJECT_DIR$/Assets/collision_player_key.cs" />
-        <option value="$PROJECT_DIR$/Assets/boutons_gameover.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/soundmanager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Map/Generation.cs" />
-        <option value="$PROJECT_DIR$/Assets/potion_script.cs" />
         <option value="$PROJECT_DIR$/Assets/music_script.cs" />
-        <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
-        <option value="$PROJECT_DIR$/Assets/ia_entité.cs" />
-        <option value="$PROJECT_DIR$/Assets/deplacement.cs" />
-        <option value="$PROJECT_DIR$/Assets/time.cs" />
         <option value="$PROJECT_DIR$/Assets/victorycript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Get_lvl2.cs" />
+        <option value="$PROJECT_DIR$/Assets/potion_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" />
+        <option value="$PROJECT_DIR$/Assets/keep_objects.cs" />
+        <option value="$PROJECT_DIR$/Assets/print_score.cs" />
+        <option value="$PROJECT_DIR$/Assets/time.cs" />
+        <option value="$PROJECT_DIR$/Assets/cheese.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ia_mage.cs" />
+        <option value="$PROJECT_DIR$/Assets/playerattack.cs" />
+        <option value="$PROJECT_DIR$/Assets/projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/chrono.cs" />
+        <option value="$PROJECT_DIR$/Assets/deplacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/boutons_gameover.cs" />
+        <option value="$PROJECT_DIR$/Assets/levels.cs" />
+        <option value="$PROJECT_DIR$/Assets/stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/ia_entité.cs" />
       </list>
     </option>
   </component>
@@ -87,10 +104,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="1128">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="1128" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -108,6 +125,15 @@
       <workItem from="1587408141196" duration="23469000" />
       <workItem from="1587504168062" duration="9722000" />
       <workItem from="1587565348130" duration="4648000" />
+      <workItem from="1587656418203" duration="1254000" />
+      <workItem from="1587665855272" duration="863000" />
+      <workItem from="1589549936719" duration="1662000" />
+      <workItem from="1589551765156" duration="4990000" />
+      <workItem from="1589627650087" duration="6959000" />
+      <workItem from="1589637472843" duration="8551000" />
+      <workItem from="1589663911283" duration="380000" />
+      <workItem from="1589677226824" duration="2572000" />
+      <workItem from="1589714197993" duration="16678000" />
     </task>
     <servers />
   </component>

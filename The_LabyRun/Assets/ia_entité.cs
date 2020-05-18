@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI; 
 
 public class ia_entité : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class ia_entité : MonoBehaviour
     public deplacement ramzy;
     public health_script vie;
     public AudioSource degats;
+    public Text lost; 
     private int z = 0;
 
     void Start()
@@ -41,7 +43,6 @@ public class ia_entité : MonoBehaviour
     {
         if (vie.hp == 0)
         {
-            degats.Play();
             SceneManager.LoadScene("Scenes/gameover"); 
         }
 

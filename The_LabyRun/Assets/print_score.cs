@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI ;
 public class print_score : MonoBehaviour
 {
+    public stats nael; 
     public deplacement player;
     public Text canvas;
 

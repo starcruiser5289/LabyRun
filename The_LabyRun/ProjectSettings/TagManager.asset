@@ -13,6 +13,9 @@ TagManager:
   - clef
   - key
   - potion
+  - cheese
+  - projectile
+  - chrono
   layers:
   - Default
   - TransparentFX

@@ -14,4 +14,9 @@ public class boutons_gameover : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void sahara()
+    {
+        SceneManager.LoadScene("Scenes/sahara");
+    }
 }

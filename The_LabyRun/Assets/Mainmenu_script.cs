@@ -9,6 +9,8 @@ public class Mainmenu_script : MonoBehaviour
     {
         SceneManager.LoadScene("Scenes/Level 1");
     }
+    
+    
 
     public void quitter()
     {
