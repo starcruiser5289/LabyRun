@@ -1,0 +1,4952 @@
+fileFormatVersion: 2
+guid: 7139951265bff5842811957103e8eff1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3284624972972021352
+    second: ramzydommage_1_0
+  - first:
+      213: -6277983529778478954
+    second: ramzydommage_1_1
+  - first:
+      213: 7720483397214815395
+    second: ramzydommage_1_2
+  - first:
+      213: 5430615252722224830
+    second: ramzydommage_1_3
+  - first:
+      213: -7927361184177667814
+    second: ramzydommage_1_4
+  - first:
+      213: 4836901938154215822
+    second: ramzydommage_1_5
+  - first:
+      213: -1438894261164960899
+    second: ramzydommage_1_6
+  - first:
+      213: 8524781496790698918
+    second: ramzydommage_1_7
+  - first:
+      213: 7582929503717952821
+    second: ramzydommage_1_8
+  - first:
+      213: 7999068327467207479
+    second: ramzydommage_1_9
+  - first:
+      213: -8187428199715518664
+    second: ramzydommage_1_10
+  - first:
+      213: 7575105526922864483
+    second: ramzydommage_1_11
+  - first:
+      213: 5906032158525199251
+    second: ramzydommage_1_12
+  - first:
+      213: -8561166943906095286
+    second: ramzydommage_1_13
+  - first:
+      213: 5047135396070865988
+    second: ramzydommage_1_14
+  - first:
+      213: 2945140689367612804
+    second: ramzydommage_1_15
+  - first:
+      213: 8976467669760532335
+    second: ramzydommage_1_16
+  - first:
+      213: 8949087624600078987
+    second: ramzydommage_1_17
+  - first:
+      213: -4108428746848073856
+    second: ramzydommage_1_18
+  - first:
+      213: -5689099326728224107
+    second: ramzydommage_1_19
+  - first:
+      213: 6195922873056131155
+    second: ramzydommage_1_20
+  - first:
+      213: -1644882202342451184
+    second: ramzydommage_1_21
+  - first:
+      213: 6154166488722250707
+    second: ramzydommage_1_22
+  - first:
+      213: -7395227441431846790
+    second: ramzydommage_1_23
+  - first:
+      213: 2821241684852316282
+    second: ramzydommage_1_24
+  - first:
+      213: -4055767836341407483
+    second: ramzydommage_1_25
+  - first:
+      213: 6879150620798798929
+    second: ramzydommage_1_26
+  - first:
+      213: -1611101000858887346
+    second: ramzydommage_1_27
+  - first:
+      213: 1531825617024917121
+    second: ramzydommage_1_28
+  - first:
+      213: -8758513057773741253
+    second: ramzydommage_1_29
+  - first:
+      213: -8191020098896685666
+    second: ramzydommage_1_30
+  - first:
+      213: 9004419025059599483
+    second: ramzydommage_1_31
+  - first:
+      213: 847041737379156215
+    second: ramzydommage_1_32
+  - first:
+      213: -7224915405273111786
+    second: ramzydommage_1_33
+  - first:
+      213: -4247303903696924102
+    second: ramzydommage_1_34
+  - first:
+      213: -805835244469938512
+    second: ramzydommage_1_35
+  - first:
+      213: -3425792247216712687
+    second: ramzydommage_1_36
+  - first:
+      213: 4255570767684917921
+    second: ramzydommage_1_37
+  - first:
+      213: -4176237408570838605
+    second: ramzydommage_1_38
+  - first:
+      213: -3281316924548553178
+    second: ramzydommage_1_39
+  - first:
+      213: 3080141164832092678
+    second: ramzydommage_1_40
+  - first:
+      213: 6310252910454434110
+    second: ramzydommage_1_41
+  - first:
+      213: 1002365458717190323
+    second: ramzydommage_1_42
+  - first:
+      213: 1746864525068975048
+    second: ramzydommage_1_43
+  - first:
+      213: -5038022321909198192
+    second: ramzydommage_1_44
+  - first:
+      213: -6802497803399957461
+    second: ramzydommage_1_45
+  - first:
+      213: 4874617392721620796
+    second: ramzydommage_1_46
+  - first:
+      213: 4783843936426688740
+    second: ramzydommage_1_47
+  - first:
+      213: 7690259327786726061
+    second: ramzydommage_1_48
+  - first:
+      213: -8482681911454557436
+    second: ramzydommage_1_49
+  - first:
+      213: 7109603029765870968
+    second: ramzydommage_1_50
+  - first:
+      213: 794970010638085689
+    second: ramzydommage_1_51
+  - first:
+      213: 2539299330890268388
+    second: ramzydommage_1_52
+  - first:
+      213: -7433676267709365223
+    second: ramzydommage_1_53
+  - first:
+      213: -3035109754000310044
+    second: ramzydommage_1_54
+  - first:
+      213: -5597202576885461661
+    second: ramzydommage_1_55
+  - first:
+      213: 5643160958529869495
+    second: ramzydommage_1_56
+  - first:
+      213: -3853438849637402408
+    second: ramzydommage_1_57
+  - first:
+      213: 7526691302546976991
+    second: ramzydommage_1_58
+  - first:
+      213: -9037916526700960193
+    second: ramzydommage_1_59
+  - first:
+      213: 6313393211552659702
+    second: ramzydommage_1_60
+  - first:
+      213: 3515140582791878251
+    second: ramzydommage_1_61
+  - first:
+      213: 1354465348191596045
+    second: ramzydommage_1_62
+  - first:
+      213: -34524359633101290
+    second: ramzydommage_1_63
+  - first:
+      213: -1764068619703968905
+    second: ramzydommage_1_64
+  - first:
+      213: 5645246871104718647
+    second: ramzydommage_1_65
+  - first:
+      213: 3585492628010829878
+    second: ramzydommage_1_66
+  - first:
+      213: 4228736432678217771
+    second: ramzydommage_1_67
+  - first:
+      213: -5223032240272158781
+    second: ramzydommage_1_68
+  - first:
+      213: -5311364148638038357
+    second: ramzydommage_1_69
+  - first:
+      213: 1451586566718392206
+    second: ramzydommage_1_70
+  - first:
+      213: 5170460994847981583
+    second: ramzydommage_1_71
+  - first:
+      213: 1817374254984860453
+    second: ramzydommage_1_72
+  - first:
+      213: -7867215448167276365
+    second: ramzydommage_1_73
+  - first:
+      213: -7531546813843564891
+    second: ramzydommage_1_74
+  - first:
+      213: 4249561420301531759
+    second: ramzydommage_1_75
+  - first:
+      213: 4171148269510227330
+    second: ramzydommage_1_76
+  - first:
+      213: 7355421640472810992
+    second: ramzydommage_1_77
+  - first:
+      213: 1899611754583622837
+    second: ramzydommage_1_78
+  - first:
+      213: -6000061452632657147
+    second: ramzydommage_1_79
+  - first:
+      213: -4515983993386801620
+    second: ramzydommage_1_80
+  - first:
+      213: -2641717987129083980
+    second: ramzydommage_1_81
+  - first:
+      213: 8858279037536229998
+    second: ramzydommage_1_82
+  - first:
+      213: -8043351636489684674
+    second: ramzydommage_1_83
+  - first:
+      213: -6627438730697889799
+    second: ramzydommage_1_84
+  - first:
+      213: 2011827630292305861
+    second: ramzydommage_1_85
+  - first:
+      213: 4844676055860258527
+    second: ramzydommage_1_86
+  - first:
+      213: 325959358694579177
+    second: ramzydommage_1_87
+  - first:
+      213: 4509384651255222090
+    second: ramzydommage_1_88
+  - first:
+      213: 8088336551045057715
+    second: ramzydommage_1_89
+  - first:
+      213: -5494154304243285954
+    second: ramzydommage_1_90
+  - first:
+      213: 624105520286345006
+    second: ramzydommage_1_91
+  - first:
+      213: 906870407566732395
+    second: ramzydommage_1_92
+  - first:
+      213: -8556082904643149313
+    second: ramzydommage_1_93
+  - first:
+      213: -7837665532423219039
+    second: ramzydommage_1_94
+  - first:
+      213: -1580495426826144119
+    second: ramzydommage_1_95
+  - first:
+      213: 2449610129452177752
+    second: ramzydommage_1_96
+  - first:
+      213: 5033309745259609920
+    second: ramzydommage_1_97
+  - first:
+      213: 1544320402023952412
+    second: ramzydommage_1_98
+  - first:
+      213: 6839021246745289395
+    second: ramzydommage_1_99
+  - first:
+      213: 8594487682675028628
+    second: ramzydommage_1_100
+  - first:
+      213: 4128249886936120113
+    second: ramzydommage_1_101
+  - first:
+      213: 1594739294740903258
+    second: ramzydommage_1_102
+  - first:
+      213: 7478904027201092334
+    second: ramzydommage_1_103
+  - first:
+      213: 6652115996931559462
+    second: ramzydommage_1_104
+  - first:
+      213: -6538107014054156904
+    second: ramzydommage_1_105
+  - first:
+      213: 4032972323039041656
+    second: ramzydommage_1_106
+  - first:
+      213: -4366618504550192008
+    second: ramzydommage_1_107
+  - first:
+      213: -6952051581975622522
+    second: ramzydommage_1_108
+  - first:
+      213: -6613363523537954950
+    second: ramzydommage_1_109
+  - first:
+      213: 7703616937979882591
+    second: ramzydommage_1_110
+  - first:
+      213: 5484098923247065410
+    second: ramzydommage_1_111
+  - first:
+      213: -5595022875713546750
+    second: ramzydommage_1_112
+  - first:
+      213: 6067488305838605166
+    second: ramzydommage_1_113
+  - first:
+      213: -2931004014371184747
+    second: ramzydommage_1_114
+  - first:
+      213: 4124006330991999312
+    second: ramzydommage_1_115
+  - first:
+      213: -2325018200803393782
+    second: ramzydommage_1_116
+  - first:
+      213: -7743676177838261853
+    second: ramzydommage_1_117
+  - first:
+      213: -411203772657363616
+    second: ramzydommage_1_118
+  - first:
+      213: -54426987074258875
+    second: ramzydommage_1_119
+  - first:
+      213: -3137024204966769201
+    second: ramzydommage_1_120
+  - first:
+      213: 2103566478695204133
+    second: ramzydommage_1_121
+  - first:
+      213: -5108875931243057140
+    second: ramzydommage_1_122
+  - first:
+      213: -3156872587734922907
+    second: ramzydommage_1_123
+  - first:
+      213: -8935538108677780812
+    second: ramzydommage_1_124
+  - first:
+      213: -5391618518500832246
+    second: ramzydommage_1_125
+  - first:
+      213: -288113036395967232
+    second: ramzydommage_1_126
+  - first:
+      213: 1545058782894950088
+    second: ramzydommage_1_127
+  - first:
+      213: 3291855234153533857
+    second: ramzydommage_1_128
+  - first:
+      213: 4917246748723356706
+    second: ramzydommage_1_129
+  - first:
+      213: -5605634051512360709
+    second: ramzydommage_1_130
+  - first:
+      213: 706077566527945752
+    second: ramzydommage_1_131
+  - first:
+      213: 294784012379834038
+    second: ramzydommage_1_132
+  - first:
+      213: -4228622085720946470
+    second: ramzydommage_1_133
+  - first:
+      213: 4848633127275457294
+    second: ramzydommage_1_134
+  - first:
+      213: -5609137939851876180
+    second: ramzydommage_1_135
+  - first:
+      213: 8644297096562911803
+    second: ramzydommage_1_136
+  - first:
+      213: -3960524149604477024
+    second: ramzydommage_1_137
+  - first:
+      213: 8271450291912602099
+    second: ramzydommage_1_138
+  - first:
+      213: 7927002582498853833
+    second: ramzydommage_1_139
+  - first:
+      213: -6314232508949808259
+    second: ramzydommage_1_140
+  - first:
+      213: 2539534646548769494
+    second: ramzydommage_1_141
+  - first:
+      213: -737038616258152356
+    second: ramzydommage_1_142
+  - first:
+      213: 8728464223972165272
+    second: ramzydommage_1_143
+  - first:
+      213: -3332786048826878319
+    second: ramzydommage_1_144
+  - first:
+      213: -759060842185231524
+    second: ramzydommage_1_145
+  - first:
+      213: -4886476723048956995
+    second: ramzydommage_1_146
+  - first:
+      213: 3758009233283651443
+    second: ramzydommage_1_147
+  - first:
+      213: -6176080005816901743
+    second: ramzydommage_1_148
+  - first:
+      213: 908088375038734090
+    second: ramzydommage_1_149
+  - first:
+      213: 5071679000891997097
+    second: ramzydommage_1_150
+  - first:
+      213: -3428796728700023036
+    second: ramzydommage_1_151
+  - first:
+      213: -8697705392274101495
+    second: ramzydommage_1_152
+  - first:
+      213: 6391680525183730826
+    second: ramzydommage_1_153
+  - first:
+      213: 1802627165683722171
+    second: ramzydommage_1_154
+  - first:
+      213: -1200542603872181933
+    second: ramzydommage_1_155
+  - first:
+      213: -1502046004990051465
+    second: ramzydommage_1_156
+  - first:
+      213: -8464730000741808180
+    second: ramzydommage_1_157
+  - first:
+      213: 7776973697218544135
+    second: ramzydommage_1_158
+  - first:
+      213: 3506716972945654445
+    second: ramzydommage_1_159
+  - first:
+      213: 5036191113583257497
+    second: ramzydommage_1_160
+  - first:
+      213: 327757254518134472
+    second: ramzydommage_1_161
+  - first:
+      213: -8559709361476526122
+    second: ramzydommage_1_162
+  - first:
+      213: -3027478847021528570
+    second: ramzydommage_1_163
+  - first:
+      213: 5731250594388131872
+    second: ramzydommage_1_164
+  - first:
+      213: -2513298598246912569
+    second: ramzydommage_1_165
+  - first:
+      213: 1671235031306636002
+    second: ramzydommage_1_166
+  - first:
+      213: 7768400565550849605
+    second: ramzydommage_1_167
+  - first:
+      213: -7756929997054597599
+    second: ramzydommage_1_168
+  - first:
+      213: 8500081361677477848
+    second: ramzydommage_1_169
+  - first:
+      213: 3184878760458849248
+    second: ramzydommage_1_170
+  - first:
+      213: 4282507875800304404
+    second: ramzydommage_1_171
+  - first:
+      213: 449811095677930067
+    second: ramzydommage_1_172
+  - first:
+      213: 119313934275209176
+    second: ramzydommage_1_173
+  - first:
+      213: -4474106693009207147
+    second: ramzydommage_1_174
+  - first:
+      213: 4910280886169186536
+    second: ramzydommage_1_175
+  - first:
+      213: -262366416976273123
+    second: ramzydommage_1_176
+  - first:
+      213: 6204028991508433119
+    second: ramzydommage_1_177
+  - first:
+      213: -141966313543956158
+    second: ramzydommage_1_178
+  - first:
+      213: -21365587893152129
+    second: ramzydommage_1_179
+  - first:
+      213: 1867245936438440863
+    second: ramzydommage_1_180
+  - first:
+      213: -4258464647720809476
+    second: ramzydommage_1_181
+  - first:
+      213: 1005678502060381946
+    second: ramzydommage_1_182
+  - first:
+      213: 2200211548746284528
+    second: ramzydommage_1_183
+  - first:
+      213: -6574820787148093916
+    second: ramzydommage_1_184
+  - first:
+      213: -4937047766258262825
+    second: ramzydommage_1_185
+  - first:
+      213: 3975464916878421877
+    second: ramzydommage_1_186
+  - first:
+      213: -3687255483469044396
+    second: ramzydommage_1_187
+  - first:
+      213: 3484985549846874551
+    second: ramzydommage_1_188
+  - first:
+      213: -3263452036629362974
+    second: ramzydommage_1_189
+  - first:
+      213: 7605302503097656481
+    second: ramzydommage_1_190
+  - first:
+      213: -735346614101689134
+    second: ramzydommage_1_191
+  - first:
+      213: 4095192865521129932
+    second: ramzydommage_1_192
+  - first:
+      213: 754296443083382409
+    second: ramzydommage_1_193
+  - first:
+      213: 8893995500154488422
+    second: ramzydommage_1_194
+  - first:
+      213: -5578144847288474538
+    second: ramzydommage_1_195
+  - first:
+      213: -8682490587762594168
+    second: ramzydommage_1_196
+  - first:
+      213: -4423846004043179457
+    second: ramzydommage_1_197
+  - first:
+      213: 5831581604923364550
+    second: ramzydommage_1_198
+  - first:
+      213: -8754429093000659313
+    second: ramzydommage_1_199
+  - first:
+      213: 4771493111521540341
+    second: ramzydommage_1_200
+  - first:
+      213: -6204116709617070803
+    second: ramzydommage_1_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramzydommage_1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866df5e9205559d20800000000000000
+      internalID: 3284624972972021352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900dc9ed3f10e8a0800000000000000
+      internalID: -6277983529778478954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44a41bebaa42b60800000000000000
+      internalID: 7720483397214815395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe835abccb6d5b40800000000000000
+      internalID: 5430615252722224830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ced2010b5cf190800000000000000
+      internalID: -7927361184177667814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89941d8fa0202340800000000000000
+      internalID: 4836901938154215822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731ae50b45080ce0800000000000000
+      internalID: -1438894261164960899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1985
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab4808ea9b1e4670800000000000000
+      internalID: 8524781496790698918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1985
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d00f1253afb3960800000000000000
+      internalID: 7582929503717952821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1985
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc2c05346620f60800000000000000
+      internalID: 7999068327467207479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c0f36e69606e80800000000000000
+      internalID: -8187428199715518664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e554975e202960800000000000000
+      internalID: 7575105526922864483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939de8e4f076f150800000000000000
+      internalID: 5906032158525199251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f19a50600a03980800000000000000
+      internalID: -8561166943906095286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cba10e6e60b0640800000000000000
+      internalID: 5047135396070865988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d3e4b5add3fd820800000000000000
+      internalID: 2945140689367612804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fdad949c1d29c70800000000000000
+      internalID: 8976467669760532335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ac120c7cb813c70800000000000000
+      internalID: 8949087624600078987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870e1772ddebf6c0800000000000000
+      internalID: -4108428746848073856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924372fd424c01b0800000000000000
+      internalID: -5689099326728224107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587a3096075cf550800000000000000
+      internalID: 6195922873056131155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1857
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01814081a543c29e0800000000000000
+      internalID: -1644882202342451184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1857
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db17e8b0ddf76550800000000000000
+      internalID: 6154166488722250707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1857
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70eb38d2dfde5990800000000000000
+      internalID: -7395227441431846790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7895236d50172720800000000000000
+      internalID: 2821241684852316282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017a6724a407b7c0800000000000000
+      internalID: -4055767836341407483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cce15da07a77f50800000000000000
+      internalID: 6879150620798798929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b978afc2834a9e0800000000000000
+      internalID: -1611101000858887346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1793
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1d906843224510800000000000000
+      internalID: 1531825617024917121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1791
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b96ce47c2837680800000000000000
+      internalID: -8758513057773741253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1791
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959d213e96a35e80800000000000000
+      internalID: -8191020098896685666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1791
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b745275556f16fc70800000000000000
+      internalID: 9004419025059599483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1791
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01a6ae8fb41cb00800000000000000
+      internalID: 847041737379156215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1791
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613e278d7b1fbbb90800000000000000
+      internalID: -7224915405273111786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1791
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d30f4a9b8e05c0800000000000000
+      internalID: -4247303903696924102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1791
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b611e95d1911d4f0800000000000000
+      internalID: -805835244469938512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1729
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1145c5e0a142570d0800000000000000
+      internalID: -3425792247216712687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5564f013de0b30800000000000000
+      internalID: 4255570767684917921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ff6c14360b06c0800000000000000
+      internalID: -4176237408570838605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1729
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6266ecc64ab6672d0800000000000000
+      internalID: -3281316924548553178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ffd3f11cdeba20800000000000000
+      internalID: 3080141164832092678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e282c695829750800000000000000
+      internalID: 6310252910454434110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8a5fde21e19ed00800000000000000
+      internalID: 1002365458717190323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1729
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbb77fb70c1e3810800000000000000
+      internalID: 1746864525068975048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0921d1c0469551ab0800000000000000
+      internalID: -5038022321909198192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1667
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2478faf94ca891a0800000000000000
+      internalID: -6802497803399957461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1667
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fec1d11be16a340800000000000000
+      internalID: 4874617392721620796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1667
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08e9bd6b0a36240800000000000000
+      internalID: 4783843936426688740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1667
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2bc572d1a49ba60800000000000000
+      internalID: 7690259327786726061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1667
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9e15aeb5774a80800000000000000
+      internalID: -8482681911454557436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1667
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755c3b89426aa260800000000000000
+      internalID: 7109603029765870968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1667
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eeb23430d480b00800000000000000
+      internalID: 794970010638085689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1602
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef914a9476d3320800000000000000
+      internalID: 2539299330890268388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1602
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148eefd1d646d890800000000000000
+      internalID: -7433676267709365223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1602
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e00d7a62cf11e5d0800000000000000
+      internalID: -3035109754000310044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1602
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d47dc59edb252b0800000000000000
+      internalID: -5597202576885461661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1602
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b696873ef8805e40800000000000000
+      internalID: 5643160958529869495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1602
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83cab58c5d58ac0800000000000000
+      internalID: -3853438849637402408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1602
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b55e8cdd247860800000000000000
+      internalID: 7526691302546976991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1602
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366b5ccdced29280800000000000000
+      internalID: -9037916526700960193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1539
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f875f51dadad9750800000000000000
+      internalID: 6313393211552659702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1539
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669edc6cb948c030800000000000000
+      internalID: 3515140582791878251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1538
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2983de070cc210800000000000000
+      internalID: 1354465348191596045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1537
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e98ff1748558ff0800000000000000
+      internalID: -34524359633101290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1538
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b9123dfe4c487e0800000000000000
+      internalID: -1764068619703968905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1539
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73705959e12f75e40800000000000000
+      internalID: 5645246871104718647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1538
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6380e556c8a32c130800000000000000
+      internalID: 3585492628010829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28a986716d7faa30800000000000000
+      internalID: 4228736432678217771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1538
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf4a2ca9df0487b0800000000000000
+      internalID: -5223032240272158781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1474
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64fa7927e3a46b0800000000000000
+      internalID: -5311364148638038357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1474
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e878af5aa42152410800000000000000
+      internalID: 1451586566718392206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1475
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004dea61ea21c740800000000000000
+      internalID: 5170460994847981583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1475
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523105c814c983910800000000000000
+      internalID: 1817374254984860453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1474
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b026807b3902d290800000000000000
+      internalID: -7867215448167276365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1474
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a611af93129a7790800000000000000
+      internalID: -7531546813843564891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1474
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af64cb89979fa30800000000000000
+      internalID: 4249561420301531759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1474
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28574ad5045e2e930800000000000000
+      internalID: 4171148269510227330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1474
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55a95e205b31660800000000000000
+      internalID: 7355421640472810992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1410
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40d1383d6cc5a10800000000000000
+      internalID: 1899611754583622837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1410
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f05506ef7bbca0800000000000000
+      internalID: -6000061452632657147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1409
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2664d61c700451c0800000000000000
+      internalID: -4515983993386801620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1409
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73964bc7bb65bd0800000000000000
+      internalID: -2641717987129083980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1409
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ad2a9f9ddeeea70800000000000000
+      internalID: 8858279037536229998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1410
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b9775d46406090800000000000000
+      internalID: -8043351636489684674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1409
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7261e869b9604a0800000000000000
+      internalID: -6627438730697889799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1409
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c783e412927beb10800000000000000
+      internalID: 2011827630292305861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62461643fbb3340800000000000000
+      internalID: 4844676055860258527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1346
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb543a4f4a068400800000000000000
+      internalID: 325959358694579177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1346
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8aa5d27d849e30800000000000000
+      internalID: 4509384651255222090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1347
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc49d44d3b8f3070800000000000000
+      internalID: 8088336551045057715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1347
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30456205c7d0c3b0800000000000000
+      internalID: -5494154304243285954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1346
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27270ff9a449a800800000000000000
+      internalID: 624105520286345006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1346
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2454b4d9d59c00800000000000000
+      internalID: 906870407566732395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1346
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e3f72eefa24980800000000000000
+      internalID: -8556082904643149313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1346
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8579759b40b3390800000000000000
+      internalID: -7837665532423219039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1346
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f5ea78c3f01ae0800000000000000
+      internalID: -1580495426826144119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85912342f63cef120800000000000000
+      internalID: 2449610129452177752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1281
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ff5b2bb88e9d540800000000000000
+      internalID: 5033309745259609920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1281
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b60639378e6510800000000000000
+      internalID: 1544320402023952412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22a97d69519ee50800000000000000
+      internalID: 6839021246745289395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1281
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b0580301c54770800000000000000
+      internalID: 8594487682675028628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1281
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbfd6566d7a4930800000000000000
+      internalID: 4128249886936120113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55736470f6a12610800000000000000
+      internalID: 1594739294740903258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1217
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3f8a76976ac760800000000000000
+      internalID: 7478904027201092334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1217
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6209cc93140115c50800000000000000
+      internalID: 6652115996931559462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1217
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895efc3af4af345a0800000000000000
+      internalID: -6538107014054156904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1217
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87859bfc5fef7f730800000000000000
+      internalID: 4032972323039041656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c63aefa97a663c0800000000000000
+      internalID: -4366618504550192008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c86247be9558f90800000000000000
+      internalID: -6952051581975622522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1153
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779ef81aec9834a0800000000000000
+      internalID: -6613363523537954950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c29f12aceb8ea60800000000000000
+      internalID: 7703616937979882591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2495e392aee6b1c40800000000000000
+      internalID: 5484098923247065410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1153
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d8e6965c7a52b0800000000000000
+      internalID: -5595022875713546750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1153
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c85c977c043450800000000000000
+      internalID: 6067488305838605166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1089
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f5928c06bf257d0800000000000000
+      internalID: -2931004014371184747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1089
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0597d3a78e96b3930800000000000000
+      internalID: 4124006330991999312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fbbccc340ebbfd0800000000000000
+      internalID: -2325018200803393782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9bb444b8fe88490800000000000000
+      internalID: -7743676177838261853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651570f85c1b4af0800000000000000
+      internalID: -411203772657363616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5487e3191f2ae3ff0800000000000000
+      internalID: -54426987074258875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd47233b1d0774d0800000000000000
+      internalID: -3137024204966769201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1023
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250c04319e513d10800000000000000
+      internalID: 2103566478695204133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1023
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f6b49860a919b0800000000000000
+      internalID: -5108875931243057140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56944e67b198034d0800000000000000
+      internalID: -3156872587734922907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8b43ce679ef380800000000000000
+      internalID: -8935538108677780812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1023
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c0750068f1d25b0800000000000000
+      internalID: -5391618518500832246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d857a48ba600cf0800000000000000
+      internalID: -288113036395967232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60d87e6c6217510800000000000000
+      internalID: 1545058782894950088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15bbbf4e40fad20800000000000000
+      internalID: 3291855234153533857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a9928dd19d3440800000000000000
+      internalID: 4917246748723356706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a5c2b789c432b0800000000000000
+      internalID: -5605634051512360709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c35c84ecd7cc900800000000000000
+      internalID: 706077566527945752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64d575f78471400800000000000000
+      internalID: 294784012379834038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84b330e9ae055c0800000000000000
+      internalID: -4228622085720946470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be17dd32ec94340800000000000000
+      internalID: 4848633127275457294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca866fe13c65822b0800000000000000
+      internalID: -5609137939851876180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa29de866b6f770800000000000000
+      internalID: 8644297096562911803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7187a05446909c0800000000000000
+      internalID: -3960524149604477024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f170ca67381ac270800000000000000
+      internalID: 8271450291912602099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3c27789de520e60800000000000000
+      internalID: 7927002582498853833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb2d2ccf65f58a0800000000000000
+      internalID: -6314232508949808259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da26565e4d3e3320800000000000000
+      internalID: 2539534646548769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ff24984385c5f0800000000000000
+      internalID: -737038616258152356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896019067fbb12970800000000000000
+      internalID: 8728464223972165272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 961
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196db471fb09fb1d0800000000000000
+      internalID: -3332786048826878319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 961
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f3aa8f264775f0800000000000000
+      internalID: -759060842185231524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb37f5f4fbf2cb0800000000000000
+      internalID: -4886476723048956995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779284ac71272430800000000000000
+      internalID: 3758009233283651443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f14ecf4f72a4aa0800000000000000
+      internalID: -6176080005816901743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f68dad09d2a9c00800000000000000
+      internalID: 908088375038734090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb9fe2e29326640800000000000000
+      internalID: 5071679000891997097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f40d2ba877a60d0800000000000000
+      internalID: -3428796728700023036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba084370b8b4780800000000000000
+      internalID: -8697705392274101495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cb55b29fc3b850800000000000000
+      internalID: 6391680525183730826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72c014bd7340910800000000000000
+      internalID: 1802627165683722171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e97eccd0d65fe0800000000000000
+      internalID: -1200542603872181933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf54cdd19a72be0800000000000000
+      internalID: -1502046004990051465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7413299ec378a80800000000000000
+      internalID: -8464730000741808180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702844a9f5c5deb60800000000000000
+      internalID: 7776973697218544135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2424ce18c5aa030800000000000000
+      internalID: 3506716972945654445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997eb1a822524e540800000000000000
+      internalID: 5036191113583257497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65c188c7d6c8400800000000000000
+      internalID: 327757254518134472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1b90efadc53980800000000000000
+      internalID: -8559709361476526122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac546670c3cf5d0800000000000000
+      internalID: -3027478847021528570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0204045dc0e798f40800000000000000
+      internalID: 5731250594388131872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd610dad38fe1dd0800000000000000
+      internalID: -2513298598246912569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8839086b613710800000000000000
+      internalID: 1671235031306636002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e1a96d727eecb60800000000000000
+      internalID: 7768400565550849605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262df10449d95490800000000000000
+      internalID: -7756929997054597599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 833
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d764bc86fa56f570800000000000000
+      internalID: 8500081361677477848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 833
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb06d1cb56f23c20800000000000000
+      internalID: 3184878760458849248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc3ec29368e6b30800000000000000
+      internalID: 4282507875800304404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a89edeecc0e3600800000000000000
+      internalID: 449811095677930067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d76a3d1463e7a100800000000000000
+      internalID: 119313934275209176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 769
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901df3eaa7c8e1c0800000000000000
+      internalID: -4474106693009207147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0318f3372d42440800000000000000
+      internalID: 4910280886169186536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 767
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1123234223eb5cf0800000000000000
+      internalID: -262366416976273123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8c5175f73291650800000000000000
+      internalID: 6204028991508433119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 641
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490427d362a70ef0800000000000000
+      internalID: -141966313543956158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76163b6c1814bff0800000000000000
+      internalID: -21365587893152129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_180
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9374bd394ac9e910800000000000000
+      internalID: 1867245936438440863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_181
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbca0817f4e6e4c0800000000000000
+      internalID: -4258464647720809476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_182
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65e81f443e4fd00800000000000000
+      internalID: 1005678502060381946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_183
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfbb11fb8b88e10800000000000000
+      internalID: 2200211548746284528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_184
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260f28345b81c4a0800000000000000
+      internalID: -6574820787148093916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5a05d6351c7bb0800000000000000
+      internalID: -4937047766258262825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 450
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe09b6740bb2730800000000000000
+      internalID: 3975464916878421877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_187
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 450
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45567b77cac34dcc0800000000000000
+      internalID: -3687255483469044396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_188
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 450
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90ef1b4e72d5030800000000000000
+      internalID: 3484985549846874551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_189
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 450
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68e27c9a3e5b2d0800000000000000
+      internalID: -3263452036629362974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_190
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4668af4567b8960800000000000000
+      internalID: 7605302503097656481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_191
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 258
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbea786268bc5f0800000000000000
+      internalID: -735346614101689134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_192
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 258
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d914c63c05d830800000000000000
+      internalID: 4095192865521129932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_193
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 258
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e53595e9cc77a00800000000000000
+      internalID: 754296443083382409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_194
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 238
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66681a4f8c1dd6b70800000000000000
+      internalID: 8893995500154488422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_195
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 241
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e1bfc0d27692b0800000000000000
+      internalID: -5578144847288474538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_196
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eecbeefc8918780800000000000000
+      internalID: -8682490587762594168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_197
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a99f37f775b92c0800000000000000
+      internalID: -4423846004043179457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_198
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d8289290fde050800000000000000
+      internalID: 5831581604923364550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_199
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 65
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb9547f15028680800000000000000
+      internalID: -8754429093000659313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_200
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 65
+        width: 103
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f67854bfb73240800000000000000
+      internalID: 4771493111521540341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramzydommage_1_201
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d853239bc86e9a0800000000000000
+      internalID: -6204116709617070803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

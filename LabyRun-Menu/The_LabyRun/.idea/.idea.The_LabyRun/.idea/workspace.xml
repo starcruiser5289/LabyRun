@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44bdc56e-3dfc-49f7-bbbe-8a100530516a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/time.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/cheese.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mainmenu_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ia_entité.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/soundmanager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Get_lvl2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/stats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/boutons_gameover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Combat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/playerattack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/followplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/print_score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Map/Generation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/collision_player_key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/potion_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/chrono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ia_mage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/deplacement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/keep_objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/health_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/levels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/followplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/health_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/score_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/collision_player_key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/soundmanager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Map/reading_construction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Map/Generation.cs" />
+        <option value="$PROJECT_DIR$/Assets/music_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/victorycript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mainmenu_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Get_lvl2.cs" />
+        <option value="$PROJECT_DIR$/Assets/potion_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Map/test_map_lauch.cs" />
+        <option value="$PROJECT_DIR$/Assets/keep_objects.cs" />
+        <option value="$PROJECT_DIR$/Assets/print_score.cs" />
+        <option value="$PROJECT_DIR$/Assets/time.cs" />
+        <option value="$PROJECT_DIR$/Assets/cheese.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ia_mage.cs" />
+        <option value="$PROJECT_DIR$/Assets/playerattack.cs" />
+        <option value="$PROJECT_DIR$/Assets/projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/chrono.cs" />
+        <option value="$PROJECT_DIR$/Assets/boutons_gameover.cs" />
+        <option value="$PROJECT_DIR$/Assets/levels.cs" />
+        <option value="$PROJECT_DIR$/Assets/stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/ia_entité.cs" />
+        <option value="$PROJECT_DIR$/Assets/deplacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Combat.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoi1gZWb9pvI25vW6qrqgl6HNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44bdc56e-3dfc-49f7-bbbe-8a100530516a" name="Default Changelist" comment="" />
+      <created>1587408135219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587408135219</updated>
+      <workItem from="1587408141196" duration="23469000" />
+      <workItem from="1587504168062" duration="9722000" />
+      <workItem from="1587565348130" duration="4648000" />
+      <workItem from="1587656418203" duration="1254000" />
+      <workItem from="1587665855272" duration="863000" />
+      <workItem from="1589549936719" duration="1662000" />
+      <workItem from="1589551765156" duration="4990000" />
+      <workItem from="1589627650087" duration="6959000" />
+      <workItem from="1589637472843" duration="8551000" />
+      <workItem from="1589663911283" duration="380000" />
+      <workItem from="1589677226824" duration="2572000" />
+      <workItem from="1589714197993" duration="16678000" />
+      <workItem from="1589812862492" duration="2411000" />
+      <workItem from="1589875864626" duration="4198000" />
+      <workItem from="1589984793282" duration="2893000" />
+      <workItem from="1589991182776" duration="998000" />
+      <workItem from="1590166314257" duration="2263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

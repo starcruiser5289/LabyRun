@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Enzo\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Enzo\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_The_LabyRun.-447388277.00" t="ExcludeRecursive" />
+    <e p="D:\Travail Epita\Projet Info\LabyRun-Menu\The_LabyRun" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="boutons_gameover.cs" t="Include" />
+        <e p="cheese.cs" t="Include" />
+        <e p="chrono.cs" t="Include" />
+        <e p="collision_player_key.cs" t="Include" />
+        <e p="Combat.cs" t="Include" />
+        <e p="deplacement.cs" t="Include" />
+        <e p="followplayer.cs" t="Include" />
+        <e p="Get_lvl2.cs" t="Include" />
+        <e p="health_script.cs" t="Include" />
+        <e p="ia_entité.cs" t="Include" />
+        <e p="Ia_mage.cs" t="Include" />
+        <e p="keep_objects.cs" t="Include" />
+        <e p="levels.cs" t="Include" />
+        <e p="Mainmenu_script.cs" t="Include" />
+        <e p="music_script.cs" t="Include" />
+        <e p="playerattack.cs" t="Include" />
+        <e p="potion_script.cs" t="Include" />
+        <e p="print_score.cs" t="Include" />
+        <e p="projectile.cs" t="Include" />
+        <e p="score_script.cs" t="Include" />
+        <e p="Script" t="Include">
+          <e p="AI" t="Include">
+            <e p="data" t="Include">
+              <e p="spawnpoint.cs" t="Include" />
+            </e>
+            <e p="spawn.cs" t="Include" />
+            <e p="states" t="Include">
+              <e p="chase.cs" t="Include" />
+              <e p="patrol.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Map" t="Include">
+            <e p="Generation.cs" t="Include" />
+            <e p="obstacle_change.cs" t="Include" />
+            <e p="reading_construction.cs" t="Include" />
+            <e p="test_map_lauch.cs" t="Include" />
+          </e>
+          <e p="Mouvement" t="Include">
+            <e p="Monster.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="soundmanager.cs" t="Include" />
+        </e>
+        <e p="stats.cs" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="time.cs" t="Include" />
+        <e p="victorycript.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="The_LabyRun.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
