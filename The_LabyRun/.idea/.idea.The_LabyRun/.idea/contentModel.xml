@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\projet_epita\LabyRun\The_LabyRun" t="IncludeRecursive">
+    <e p="C:\Users\Enzo\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Enzo\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_The_LabyRun.-1215768552.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Enzo\LabyRun\The_LabyRun" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="boutons_gameover.cs" t="Include" />
@@ -11,6 +13,7 @@
         <e p="health_script.cs" t="Include" />
         <e p="ia_entité.cs" t="Include" />
         <e p="Mainmenu_script.cs" t="Include" />
+        <e p="PlayerCombat.cs" t="Include" />
         <e p="potion_script.cs" t="Include" />
         <e p="print_score.cs" t="Include" />
         <e p="score_script.cs" t="Include" />
@@ -29,6 +32,11 @@
             <e p="Generation.cs" t="Include" />
             <e p="obstacle_change.cs" t="Include" />
             <e p="reading_construction.cs" t="Include" />
+            <e p="saving_cell" t="Include">
+              <e p="cell_list.cs" t="Include" />
+              <e p="save_load.cs" t="Include" />
+              <e p="saver.cs" t="Include" />
+            </e>
             <e p="test_map_lauch.cs" t="Include" />
           </e>
           <e p="Mouvement" t="Include">
@@ -72,7 +80,5 @@
       <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="The_LabyRun.sln" t="IncludeFlat" />
     </e>
-    <e p="C:\Users\MSI\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\MSI\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_The_LabyRun.816492670.00" t="ExcludeRecursive" />
   </component>
 </project>

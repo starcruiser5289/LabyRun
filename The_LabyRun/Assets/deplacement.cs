@@ -44,6 +44,10 @@ public class deplacement : MonoBehaviour
 
         }
 
+        if (collision.CompareTag("epée"))
+        {
+            PlayerCombat.IsArmed = true;
+        }
     }
     void Update()
     {
